@@ -42,7 +42,7 @@
     "@types/chai": "^4.2.2",
     "@types/cucumber": "^4.0.7",
     "@types/node": "~12.7.4",
-    "karma": "^4.3.0",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jasmine": "~2.0.1",
